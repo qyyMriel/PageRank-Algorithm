@@ -5,3 +5,6 @@ This project is an NOC based implementation of PageRank algorithm, the cornersto
 
 
 ![alt Image of final Result](https://github.com/qyyMriel/PageRank-Algorithm/blob/master/result.png?raw=true)
+<img src="https://github.com/qyyMriel/PageRank-Algorithm/blob/master/result.png?raw=true" width="150" height="200" alt="图片描述文字"/>
+1
+
