@@ -7,7 +7,7 @@ This project is an NOC based implementation of PageRank algorithm, the cornersto
 The time, metric contrast of final result. Although the series is slow, the metric is better.
 <div align=center><img src="https://github.com/qyyMriel/PageRank-Algorithm/blob/master/result.png?raw=true" width="350" height="400" alt="Image of Final result"/></div>
 
-<div align=center><img src="https://github.com/qyyMriel/PageRank-Algorithm/blob/master/metric.png?raw=true" width="450" height="200" alt="Image of Final result"/></div>
+<div align=center><img src="https://github.com/qyyMriel/PageRank-Algorithm/blob/master/metric.png?raw=true" width="450" height="150" alt="Image of Final result"/></div>
 
 
 
